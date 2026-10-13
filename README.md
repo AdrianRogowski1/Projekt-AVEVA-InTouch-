@@ -1,6 +1,6 @@
 # Stacja uzdatniania wody – AVEVA InTouch
 
-Projekt interfejsu HMI/SCADA dla stacji uzdatniania wody.
+Projekt interfejsu HMI/SCADA dla stacji uzdatniania wody. Projekt w pełni funkcjonalny, jednak ze względu na brak dostępu do sterownika i licencji przedstawione są jedynie zrzuty ekranu.
 
 ## Ekran logowania
 Ekran startowy aplikacji z przyciskiem logowania.
